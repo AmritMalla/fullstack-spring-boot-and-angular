@@ -1,0 +1,14 @@
+.classpath
+.gradle/
+.settings/
+Help.md
+bin/*
+.project
+build/
+gradle/
+WebContent/webapp/node_modules/
+WebContent/webapp/angular2/e2e/
+WebContent/webapp/angular2/node_modules/
+WebContent/webapp/angular2/.editorconfig
+
+
